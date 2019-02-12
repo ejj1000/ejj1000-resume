@@ -2,37 +2,46 @@
 
 2810 16th ave S, Seattle, Washington • 206.910.3590 • ms.elizajane@gmail.com  
   
-I'm an enthusiastic learner with exceptional communication, critical thinking, and project management skills. I have a hands-on approach to problem solving, and I enjoy collaborating with others to find creative, proactive solutions. I’m a tenacious optimist, I focus on getting the job done, and I make work fun for everybody.  
+Eliza Johnson is a project manager who believes optimism, tenacity, and an open mind are key elements for collaborating across diverse perspectives. Her focus is on identifying the details required to achieve visionary ideas.
+
+Eliza has thrived in start-up organizations with diverse stakeholders and mission-driven leadership. To meet the needs of her teams, she has pursued specialized training in data analysis, data visualization, research ethics, and project management. She enjoys designing new projects and keeping teams focused on managing results.
+
+Prior to joining Panorama, Eliza worked at PATH, where she launched the Office of Scientific Affairs at PATH’s global offices, enabling the organization’s human subjects research to consistently meet a high bar of scientific integrity. She also helped assess Ebola programs for the Paul G. Allen Family Foundation, working alongside grantees to design tools to support community health workers on the front lines of the 2014 Ebola outbreak in West Africa. At the Bill & Melinda Gates Foundation, Eliza brought rigor to strategies around eradicating malaria, TB, HIV, and neglected diseases.
+
+Eliza has a bachelor of arts in legal, political, and economic studies from the University of Washington, and has conducted field research in Zambia and India.
 * * *   
     
 ####Work Experience
 
 **Panorama Global, Seattle, WA**  
-*Senior Project Manager* : 1/2017-present  
-* 
+*Senior Project Manager* | *Employee #7* : 1/2017-present  
+* Key partner to World Health Organization AFRO Office on the Expanded Special Project for Elimination of Neglected Tropical Diseases.
+* Leader on global resource mobilization strategy; responsible for execution of strategic and operational plans.
+* Team leadership for globally dispersed project team: Seattle, New York, Istanbul, Amsterdam, US Virgin Islands.
+* Also RFP business development lead for Panorama Global, winning projects with World Bank and Gates Fdn.
 
 **PATH, Seattle, WA**  
 *Program Assistant, Office of Scientific Affairs* : 2/2016-1/2017  
-* 
+* Change management and communications lead for implementation of human subjects research policies for PATH's global offices.
+* Confidential projects manager for PMO and Results Management teams.
 
 **Paul G. Allen Ebola Program/Vulcan Inc., Seattle, WA**  
 *Special Projects Assistant* : 3/2015-2/2016  
 * Provided strategic and programmatic support to senior leadership.  
-* Planned international engagements with global leaders for senior leadership, including preparing briefs, agendas, and minute-by-minute itineraries.  
+* Planned international engagements with global health and development leaders, including preparing briefs, agendas, and minute-by-minute itineraries.  
 * Convened tech sector and UN grantees to build an end-to-end mobile phone system for pandemic outbreak detection and tracking.  
-* Reviewed and recommended grant proposals on behalf of Paul Allen.
+* Programmed out $100M on behalf of Paul Allen in support of Ebola crisis management.
 
 **Bill and Melinda Gates Foundation, Seattle, WA**  
 *Program Assistant (contract) - Global Health Strategy Planning and Management* : 4/2014-4/2015  
-* Provided comprehensive support to senior executives with global responsibilities.  
-* Collaborated with every department to implement strategy initiatives.   
-* Liaised daily with the top levels of multinational corporations, multilateral organizations, and international governments.   
-* Executed and staffed high-stakes meetings with key partners and stakeholders.  
+* Provided comprehensive support to Strategy Planning and Management Team Leads.  
+* Extensive cross matrix coordination to implement global health R&D strategy initiatives.   
+* Liaised daily with the top levels of multinational corporations, multilateral organizations, and international governments.     
 
 **Metro Property Services, Seattle, WA**    
 *Associate Asset Manager* | *Employee #3* : 5/2010-4/2014   
-* Supported director in day-to-day operations in entrepreneurial environment.    
-* Relationship management with clients, business partners, tenants, and vendors.  
+* Operations management for real estate startup    
+* Client relationship owner for  
 * Produced monthly operating reports and budget variance reports for 30 commercial properties.    
 * Researched and provided recommendations for capital improvement projects.   
 * Acted as operations coordinator, implementing new software, policies, procedures, and training sessions.
@@ -65,11 +74,11 @@ I'm an enthusiastic learner with exceptional communication, critical thinking, a
 
 **Mills College**     
 *Art History and Philosophy coursework, 2000-2002*  
-* Presidential scholar
+* Presidential scholar; full tuition merit scholarship
 
 - - -   
   
 ####Skills
 
-Proficient with MS Office Suite, Concur, AP Master, Global Meet. Savvy with intercultural business communication and international travel logistics. Nonviolent Communication conflict mediator. SIFF and SAM Volunteer.
+Certified PMD Pro - Project Management for NGO Professionals. Agile, Scrum, Kanban PM methodologies. Nonviolent Communication conflict mediator. General Assembly certificate in Data Analysis. Basic training in HTML, CSS, Javascript, jQuery. 
 
