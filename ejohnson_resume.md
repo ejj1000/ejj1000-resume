@@ -40,18 +40,16 @@ Eliza has a bachelor of arts in legal, political, and economic studies from the 
 
 **Metro Property Services, Seattle, WA**    
 *Associate Asset Manager* | *Employee #3* : 5/2010-4/2014   
-* Operations management for real estate startup    
-* Client relationship owner for  
+* Operations management for real estate startup.    
+* Client relationship owner for corporate and family foundation clients.  
 * Produced monthly operating reports and budget variance reports for 30 commercial properties.    
 * Researched and provided recommendations for capital improvement projects.   
-* Acted as operations coordinator, implementing new software, policies, procedures, and training sessions.
 
 **Madison Marquette Retail Services, Seattle, WA**  
 *Executive Assistant to Regional VP* : 8/2008 - 5/2010 | *Administrative Assistant* : 9/2004-8/2006  
 * Supported Regional VP of Management Services in day-to-day operations.     
 * Developed and monitored budgets and expenses.   
-* Established procedures to track and report project performance.   
-* Reception duties and general office administration and support.     
+* Established procedures to track KPIs.   
 
 **Terra Organica Inc, Bellingham, WA**   
 *Store Manager - Bargainica Natural Foods* 8/2006-8/2008   
